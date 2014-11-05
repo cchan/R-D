@@ -91,7 +91,7 @@ For functions and tasks, use camelCase.
 Be specific with the name of a function; describe what the function does.
 
 ```cpp
-void functionThatMovesRobot() {//Drives forward.
+void functionThatMovesRobot() { //Drives forward.
     //Function code goes here.
 }
 ```
