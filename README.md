@@ -1,27 +1,35 @@
 LexRobotics R&D Repository
 ==========================
 
+Hi!
 ---
 
-Hello! You're now in the "Research and Development" ~~code~~ highly purified epicness repository 
-(shared between Two Bits and Parity Bits), where we develop "advanced" 
-(whatever that means) stuff not necessarily related to the robot. 
-Not even necessarily in ROBOTC or even vaguely connectable to the team.
+Hello! You're now in the "Research and Development" ~~code~~ highly purified 
+epicness repository used by the R&D division, where we "research and develop" 
+(whatever that means) stuff not strictly associated with the robotics team. 
+Some things you might do in R&D could be Science Fair-related, or could simply 
+be any engineering-related project you want to do on the side. Either way, here 
+you can find people interested in similar things who can learn with you, and 
+help develop everyone's ideas to come up with new and amazing things.
 
-A lot of the stuff is actually extremely relevant to the actual robot, 
-and will quite possibly end up being copied to the main Git repo. However, 
-this repo will retain everything, even between seasons.
+A lot of the stuff may actually extremely relevant to the robotics team, 
+and will quite possibly end up being used for the competition! However, 
+R&D will retain everything as a separate copy, even between years, as an 
+inspiration for more and more ideas.
 
----
+Before we begin, though, here are some guidelines for the use of the Git repository.
 
 Guidelines
 ----------
 
-Naturally, you should be nice about how you use git, 
-and not reset other people's changes, etc.
+Git reference sheets are available, so ask us about it!
+
+Naturally, you should be nice about how you use Git, and not reset other people's 
+changes, etc. Also, don't edit this file.
 
 Additionally, there is a very simple header-comment format to help people 
-understand what you're doing (or _trying_ to do).
+understand what you're doing (or _trying_ to do). While it's often arduous 
+to update, it'll really, really help people understand what you're trying to do.
 
 At the top of each file, you need something like this:
 
@@ -47,6 +55,7 @@ Status: [status - final scrim copy, compiles but untested, just started, etc.]
 
 See any files in the repo for examples.
 
+:P
 ---
 
 Other than that, **happy hacking**!
